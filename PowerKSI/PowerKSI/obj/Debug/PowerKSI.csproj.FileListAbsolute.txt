@@ -1,0 +1,118 @@
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\PowerKSI.dll.config
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\PowerKSI.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\PowerKSI.pdb
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Antlr3.Runtime.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\EntityFramework.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\EntityFramework.SqlServer.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Newtonsoft.Json.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Owin.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\System.Web.Optimization.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\System.Web.Providers.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\WebGrease.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\System.Web.Optimization.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Antlr3.Runtime.pdb
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Newtonsoft.Json.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\EntityFramework.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\EntityFramework.SqlServer.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\obj\Debug\PowerKSI.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\obj\Debug\PowerKSI.pdb
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\SD.LLBLGen.Pro.ORMSupportClasses.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\SD.LLBLGen.Pro.ORMSupportClasses.pdb
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\obj\Debug\PowerKSI.csprojResolveAssemblyReference.cache
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\KSI.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\SD.LLBLGen.Pro.DQE.SqlServer.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\KSI.pdb
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\PowerKSI\bin\SD.LLBLGen.Pro.DQE.SqlServer.pdb
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\PowerKSI.dll.config
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\PowerKSI.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\PowerKSI.pdb
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Antlr3.Runtime.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\EntityFramework.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\EntityFramework.SqlServer.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\KSI.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Newtonsoft.Json.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Owin.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\SD.LLBLGen.Pro.ORMSupportClasses.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\System.Web.Optimization.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\System.Web.Providers.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\WebGrease.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\SD.LLBLGen.Pro.DQE.SqlServer.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\KSI.pdb
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\SD.LLBLGen.Pro.ORMSupportClasses.pdb
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\System.Web.Optimization.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Antlr3.Runtime.pdb
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Newtonsoft.Json.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\EntityFramework.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\EntityFramework.SqlServer.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\bin\SD.LLBLGen.Pro.DQE.SqlServer.pdb
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\obj\Debug\PowerKSI.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\obj\Debug\PowerKSI.pdb
+C:\Users\Bin Wang\Documents\Visual Studio 2015\Projects\PowerKSI\PowerKSI\obj\Debug\PowerKSI.csprojResolveAssemblyReference.cache
+C:\Users\Bin Wang\Documents\Visual Studio 2017\Projects\PowerKSI\PowerKSI\obj\Debug\PowerKSI.csprojResolveAssemblyReference.cache
+C:\Users\Bin Wang\Documents\Visual Studio 2017\Projects\PowerKSI\PowerKSI\obj\Debug\PowerKSI.csproj.CoreCompileInputs.cache
+C:\Users\Bin Wang\Documents\Visual Studio 2017\Projects\PowerKSI\PowerKSI\obj\Debug\PowerKSI.dll
+C:\Users\Bin Wang\Documents\Visual Studio 2017\Projects\PowerKSI\PowerKSI\obj\Debug\PowerKSI.pdb

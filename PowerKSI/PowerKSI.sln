@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerKSI", "PowerKSI\PowerKSI.csproj", "{2EFA2750-ACD4-463A-9995-8215F811D536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSI", "DAL\KSI.csproj", "{9FB38A66-98CD-45BE-AFEE-B9F09224FA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EFA2750-ACD4-463A-9995-8215F811D536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFA2750-ACD4-463A-9995-8215F811D536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFA2750-ACD4-463A-9995-8215F811D536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFA2750-ACD4-463A-9995-8215F811D536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB38A66-98CD-45BE-AFEE-B9F09224FA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB38A66-98CD-45BE-AFEE-B9F09224FA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB38A66-98CD-45BE-AFEE-B9F09224FA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB38A66-98CD-45BE-AFEE-B9F09224FA76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

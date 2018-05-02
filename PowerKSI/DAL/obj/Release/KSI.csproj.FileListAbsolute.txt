@@ -1,0 +1,9 @@
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\bin\Release\KSI.dll.config
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\bin\Release\KSI.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\bin\Release\KSI.pdb
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\bin\Release\SD.LLBLGen.Pro.DQE.SqlServer.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\bin\Release\SD.LLBLGen.Pro.ORMSupportClasses.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\bin\Release\SD.LLBLGen.Pro.ORMSupportClasses.pdb
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\bin\Release\SD.LLBLGen.Pro.DQE.SqlServer.pdb
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\obj\Release\KSI.dll
+C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL\obj\Release\KSI.pdb

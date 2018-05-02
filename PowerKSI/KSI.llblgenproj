@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--LLBLGen Pro v5.0 project file. Do not manually edit this file. Incorrect references could lead to an unloadable project file.-->
+<Project Version="5.0" TargetFrameworkName="LLBLGen Pro Runtime Framework">
+  <Properties>
+    <Abbreviations />
+    <Property Name="AdditionalTaskPerformerFolder" Value="" />
+    <Property Name="AdditionalTasksFolder" Value="" />
+    <Property Name="AdditionalTemplatesFolder" Value="" />
+    <Property Name="AdditionalTypeConverterFolder" Value="" />
+    <Property Name="AddNewElementsAfterRefresh_v5" Value="false" />
+    <Property Name="AddNewElementsAfterRelationalModelDataSync_v5" Value="false" />
+    <Property Name="AddNewFieldsAfterRefresh_v5" Value="true" />
+    <Property Name="AddNewFieldsAfterRelationalModelDataSync_v5" Value="true" />
+    <Property Name="AddNewViewsAsEntitiesAfterRefresh_v5" Value="false" />
+    <Property Name="AddNewViewsAsEntitiesAfterRelationalModelDataSync_v5" Value="false" />
+    <Property Name="AutoAddManyToManyRelationships" Value="false" />
+    <Property Name="AutoAssignSequencesToIntegerPks" Value="true" />
+    <Property Name="AutoAssignTypeConverterToFieldMapping" Value="true" />
+    <Property Name="CleanUpVsNetProjects" Value="true" />
+    <Property Name="ConnectionStringKeyNamePattern" Value="ConnectionString.{$ProviderName}" />
+    <Property Name="DefaultDeleteRuleAction" Value="1" />
+    <Property Name="DefaultUpdateRuleAction" Value="0" />
+    <Property Name="EncodingToUse" Value="0" />
+    <Property Name="EntityActionCombinationDefaultForTable" Value="0" />
+    <Property Name="EntityActionCombinationDefaultForView" Value="4" />
+    <Property Name="EntityFieldNameStripPattern" Value="{}{}" />
+    <Property Name="EntityNameStripPattern" Value="{tbl_}{}" />
+    <Property Name="ExcludableOrphanedElementDetectedAction" Value="3" />
+    <Property Name="FailCodeGenerationOnWriteError" Value="false" />
+    <Property Name="FieldMappedOntoRelatedFieldPattern" Value="{$RelatedFieldName}" />
+    <Property Name="FkFieldsAreNamedAfterTargetField" Value="true" />
+    <Property Name="ForeignKeyConstraintPattern" Value="FK_{$Guid}" />
+    <Property Name="ForeignKeyFieldPattern" Value="{$NavigatorName}{$RelatedFieldName}" />
+    <Property Name="GroupUsage" Value="0" />
+    <Property Name="IdentifyingFieldsFollowDBPrimaryKeyConstraints_v5" Value="true" />
+    <Property Name="InsertUnderscoreAtWordBreakCaseInsensitiveDBs" Value="false" />
+    <Property Name="InsertUnderscoreAtWordBreakCaseSensitiveDBs" Value="false" />
+    <Property Name="LengthPrecisionScaleFollowDBLengthPrecisionScale_v5" Value="true" />
+    <Property Name="MakeElementNamePascalCasing" Value="true" />
+    <Property Name="NavigatorMappedOntoManyToManyPattern" Value="{$EndEntityName}CollectionVia{$IntermediateEntityName$S}" />
+    <Property Name="NavigatorMappedOntoOneManyToOnePattern" Value="{$EndEntityName$S}" />
+    <Property Name="NavigatorMappedOntoOneToManyPattern" Value="{$EndEntityName$P}" />
+    <Property Name="NonExcludableOrphanedElementDetectedAction" Value="3" />
+    <Property Name="PreferDecimalOverCurrencyTypes" Value="true" />
+    <Property Name="PreferNaturalCharacterTypes" Value="true" />
+    <Property Name="PreferSystemSequencesOverSchemaSequencesIfApplicable" Value="true" />
+    <Property Name="PreferVariableLengthTypes" Value="true" />
+    <Property Name="PrimaryKeyConstraintPattern" Value="PK_{$Guid}" />
+    <Property Name="ProjectCreator" Value="Kerimbekov" />
+    <Property Name="ProjectName" Value="KSI" />
+    <Property Name="ReflectNullabilityOfElementFieldInTargetField_v5" Value="false" />
+    <Property Name="ReflectTypeOfElementFieldInTargetField_v5" Value="true" />
+    <Property Name="RelationalModelDataElementNameCasingCaseInsensitiveDBs" Value="3" />
+    <Property Name="RelationalModelDataElementNameCasingCaseSensitiveDBs" Value="3" />
+    <Property Name="RelationshipsFollowDBForeignKeyConstraints_v5" Value="true" />
+    <Property Name="RemoveUnderscoresFromElementName" Value="true" />
+    <Property Name="RemoveUnmappedElementsAfterRefresh_v5" Value="false" />
+    <Property Name="RemoveUnmappedElementsAfterRelationalModelDataSync_v5" Value="false" />
+    <Property Name="ResetFieldOrderBasedOnTargetOrderAtRefresh" Value="false" />
+    <Property Name="ResetFieldOrderBasedOnTargetOrderAtRelationalModelDataSync" Value="false" />
+    <Property Name="RetrieveDBCustomProperties" Value="false" />
+    <Property Name="RootNamespace" Value="" />
+    <Property Name="SequenceNameMatchingPattern" Value="SEQ_{$TableName}" />
+    <Property Name="SequencePattern" Value="SEQ_{$EntityName}" />
+    <Property Name="SetGroupNameAfterSchemaName" Value="true" />
+    <Property Name="SetSchemaNameAfterGroupName" Value="true" />
+    <Property Name="SingularizeElementNames" Value="true" />
+    <Property Name="StoredProcNameStripPattern" Value="{pr_, sp_}{}" />
+    <Property Name="StoreTimeLastGeneratedIntoProject" Value="false" />
+    <Property Name="SyncMappedElementNamesAfterRefresh_v5" Value="false" />
+    <Property Name="SyncMappedElementNamesAfterRelationalModelDataSync_v5" Value="false" />
+    <Property Name="SyncRelationalModelDataElementNameWithModelElementName_v5" Value="false" />
+    <Property Name="SyncRenamedMappedElementNamesAfterRefresh_v5" Value="false" />
+    <Property Name="SyncRenamedMappedElementNamesAfterRelationalModelDataSync_v5" Value="false" />
+    <Property Name="TableValuedFunctionNameStripPattern" Value="{fn_, pr_, sp_}{}" />
+    <Property Name="TargetPerEntityEdgesRequireBackingFkConstraint" Value="true" />
+    <Property Name="TypedViewFieldNameStripPattern" Value="{}{}" />
+    <Property Name="TypedViewMappedOnResultsetPattern" Value="{$ProcFunctionName}{$ResultsetName}Result" />
+    <Property Name="TypedViewNameStripPattern" Value="{vw_}{}" />
+    <Property Name="UniqueConstraintPattern" Value="UC_{$Guid}" />
+    <Property Name="UniqueConstraintsFollowDBUniqueConstraints_v5" Value="true" />
+    <Property Name="UpdateCustomPropertiesAfterRefresh_v5" Value="false" />
+    <Property Name="UpdateCustomPropertiesAfterRelationalModelDataSync_v5" Value="false" />
+    <Property Name="UseCustomFieldOrderingOnNewElements" Value="false" />
+  </Properties>
+  <TypeShortcuts />
+  <IgnoredWarnings />
+  <SavedSearchQueries />
+  <CodeGenerationCyclePreferences>
+    <OutputType Value="3">
+      <LastUsedPreferences>
+        <DestinationRootFolder Value="C:\Users\Doolotbek\Desktop\KSI\CIS510\PowerKSI\DAL" />
+        <FrameworkName Value="LLBLGen Pro Runtime Framework" />
+        <LanguageName Value="C#" />
+        <PlatformName Value=".NET 4.5.2" />
+        <PresetName Value="SD.Presets.SelfServicing.General" />
+        <RootNamespace Value="KSI" />
+        <TemplateGroup Value="SelfServicing" />
+        <TemplateBindings>
+          <Binding Name="SD.TemplateBindings.SharedTemplates.Deprecated" />
+          <Binding Name="SD.TemplateBindings.SharedTemplates.NET45x" />
+          <Binding Name="SD.TemplateBindings.SharedTemplates" />
+          <Binding Name="SD.TemplateBindings.SqlServerSpecific" />
+          <Binding Name="SD.TemplateBindings.General" />
+        </TemplateBindings>
+      </LastUsedPreferences>
+    </OutputType>
+    <OutputType Value="1">
+      <LastUsedPreferences>
+        <DestinationRootFolder Value="." />
+        <FrameworkName Value="DDL SQL" />
+        <LanguageName Value="SQL" />
+        <PlatformName Value="RDBMS" />
+        <PresetName Value="SD.Presets.DDLSQL.CreateScript" />
+        <RootNamespace Value="" />
+        <TemplateGroup Value="Create DDL SQL" />
+        <TemplateBindings>
+          <Binding Name="SD.TemplateBindings.SqlServerSpecific.DDLSQL" />
+          <Binding Name="SD.TemplateBindings.SharedTemplates.DDLSQL" />
+        </TemplateBindings>
+      </LastUsedPreferences>
+    </OutputType>
+  </CodeGenerationCyclePreferences>
+  <CodeGenerationMetaDataDefaults>
+    <TargetElement Type="256">
+      <Defaults>
+        <Attributes>
+          <Attribute Value="Browsable($false)" />
+        </Attributes>
+      </Defaults>
+    </TargetElement>
+  </CodeGenerationMetaDataDefaults>
+  <EntityModel>
+    <ValueTypeDefinitions />
+    <EntityDefinitions>
+      <EntityDefinition Name="Attendance" ObjectID="76fb6d27-9047-42b9-a56b-af6d00f93627">
+        <Fields>
+          <Field Name="AttendanceCodeId" Type="int" Precision="10" />
+          <Field Name="DateOfAttendance" Type="datetime" IsPrimaryKey="true" />
+          <Field Name="Notes" Type="string" IsOptional="true" MaxLength="2147483647" />
+          <Field Name="OfferingId" Type="int" Precision="10" IsPrimaryKey="true" />
+          <Field Name="StudentId" Type="int" Precision="10" IsPrimaryKey="true" />
+          <Field Name="SubmitDate" Type="datetime" />
+          <Field Name="SubmittedBy" Type="int" Precision="10" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="AttendanceCode" ObjectID="4e76f398-65f2-4f79-a74c-89f05bd6a0bd">
+        <Fields>
+          <Field Name="Code" Type="string" MaxLength="50" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="Name" Type="string" MaxLength="100" />
+          <Field Name="Status" Type="string" MaxLength="50" />
+          <Field Name="Type" Type="string" MaxLength="50" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="ClassRegistration" ObjectID="e7e4db1b-bca3-489d-b601-11108fbd1345">
+        <Fields>
+          <Field Name="FinalGrade" Type="string" IsOptional="true" MaxLength="50" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="IsOnline" Type="bool" />
+          <Field Name="OfferingId" Type="int" Precision="10" />
+          <Field Name="RegistrationDate" Type="datetime" />
+          <Field Name="StudentId" Type="int" Precision="10" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="Course" ObjectID="3fda6622-45b2-40c1-aa06-5f24097ab41c">
+        <Fields>
+          <Field Name="CourseNumber" Type="string" MaxLength="50" />
+          <Field Name="Description" Type="string" MaxLength="2147483647" />
+          <Field Name="HasPrerequisite" Type="bool" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="Prerequisite1" Type="string" IsOptional="true" MaxLength="50" />
+          <Field Name="Prerequisite2" Type="string" IsOptional="true" MaxLength="50" />
+          <Field Name="Prerequisite3" Type="string" IsOptional="true" MaxLength="50" />
+          <Field Name="Syllabus" Type="byte[]" IsOptional="true" MaxLength="2147483647" />
+          <Field Name="Title" Type="string" MaxLength="500" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="GradeBook" ObjectID="193861f1-e022-499b-8545-937f3c8ecd0c">
+        <Fields>
+          <Field Name="GradeItemId" Type="int" Precision="10" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="OfferingId" Type="int" Precision="10" />
+          <Field Name="Score" Type="int" Precision="10" />
+          <Field Name="StudentId" Type="int" Precision="10" />
+          <Field Name="SubmitDate" Type="datetime" />
+          <Field Name="SubmittedBy" Type="int" Precision="10" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="GradeItem" ObjectID="971bff47-c7c8-4279-8e98-289553122722">
+        <Fields>
+          <Field Name="FullScore" Type="int" Precision="10" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="Name" Type="string" MaxLength="50" />
+          <Field Name="Type" Type="string" MaxLength="50" />
+          <Field Name="Weight" Type="int" Precision="10" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="Offering" ObjectID="3742b105-bc46-4f7a-b763-2556b7ec6dc7">
+        <Fields>
+          <Field Name="Capacity" Type="int" Precision="10" />
+          <Field Name="CourseId" Type="int" Precision="10" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="Instructor2Id" Type="int" IsOptional="true" Precision="10" />
+          <Field Name="InstructorId" Type="int" Precision="10" />
+          <Field Name="RoomNumber" Type="string" MaxLength="50" />
+          <Field Name="SemesterId" Type="int" Precision="10" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="OfferingSchedule" ObjectID="861d2e8e-8b7d-45f0-ba63-ff36a6343849">
+        <Fields>
+          <Field Name="EndTime" Type="timespan" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="OfferingId" Type="int" Precision="10" />
+          <Field Name="StartTime" Type="timespan" />
+          <Field Name="Weekday" Type="string" MaxLength="50" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="Semester" ObjectID="908ec72a-f171-4ffd-9463-c5f21fa64962">
+        <Fields>
+          <Field Name="EndDate" Type="datetime" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="Name" Type="string" MaxLength="100" />
+          <Field Name="StartDate" Type="datetime" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="Student" ObjectID="4feed2db-0385-44ed-b794-487ba8fab73b">
+        <Fields>
+          <Field Name="Email" Type="string" MaxLength="100" />
+          <Field Name="FirstName" Type="string" MaxLength="100" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="IsOnline" Type="bool" />
+          <Field Name="LastName" Type="string" MaxLength="100" />
+          <Field Name="Status" Type="string" MaxLength="100" />
+          <Field Name="StudentId" Type="int" Precision="10" />
+        </Fields>
+      </EntityDefinition>
+      <EntityDefinition Name="User" ObjectID="da3a4835-0b25-4b07-879f-f372eaafed0f">
+        <Fields>
+          <Field Name="Email" Type="string" MaxLength="500" />
+          <Field Name="FirstName" Type="string" MaxLength="50" />
+          <Field Name="FullName" Type="string" MaxLength="500" />
+          <Field Name="Id" Type="int" IsReadOnly="true" Precision="10" IsPrimaryKey="true" />
+          <Field Name="IsAdmin" Type="bool" />
+          <Field Name="IsInstructor" Type="bool" />
+          <Field Name="LastLoginDate" Type="datetime" IsOptional="true" />
+          <Field Name="LastName" Type="string" MaxLength="50" />
+          <Field Name="Password" Type="string" MaxLength="500" />
+          <Field Name="RefId" Type="string" MaxLength="500" />
+          <Field Name="Username" Type="string" MaxLength="500" />
+        </Fields>
+      </EntityDefinition>
+    </EntityDefinitions>
+    <Relationships>
+      <NormalRelationship Name="ClassRegistration.Offering-Offering.ClassRegistrations" Start=":ClassRegistration" End=":Offering" StartNavigator="Offering" EndNavigator="ClassRegistrations" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="OfferingId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="ClassRegistration.Student-Student.ClassRegistrations" Start=":ClassRegistration" End=":Student" StartNavigator="Student" EndNavigator="ClassRegistrations" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="StudentId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="GradeBook.GradeItem-GradeItem.GradeBooks" Start=":GradeBook" End=":GradeItem" StartNavigator="GradeItem" EndNavigator="GradeBooks" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="GradeItemId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="GradeBook.Offering-Offering.GradeBooks" Start=":GradeBook" End=":Offering" StartNavigator="Offering" EndNavigator="GradeBooks" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="OfferingId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="GradeBook.Student-Student.GradeBooks" Start=":GradeBook" End=":Student" StartNavigator="Student" EndNavigator="GradeBooks" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="StudentId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="GradeBook.User-User.GradeBooks" Start=":GradeBook" End=":User" StartNavigator="User" EndNavigator="GradeBooks" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="SubmittedBy" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="Offering.Course-Course.Offerings" Start=":Offering" End=":Course" StartNavigator="Course" EndNavigator="Offerings" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="CourseId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="Offering.Semester-Semester.Offerings" Start=":Offering" End=":Semester" StartNavigator="Semester" EndNavigator="Offerings" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="SemesterId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="Offering.User-User.Offerings" Start=":Offering" End=":User" StartNavigator="User" EndNavigator="Offerings" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="InstructorId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="Offering.User1-User.Offerings1" Start=":Offering" End=":User" StartNavigator="User1" EndNavigator="Offerings1" Type="4" EndIsOptional="true">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="Instructor2Id" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+      <NormalRelationship Name="OfferingSchedule.Offering-Offering.OfferingSchedules" Start=":OfferingSchedule" End=":Offering" StartNavigator="Offering" EndNavigator="OfferingSchedules" Type="4">
+        <FieldRelationships>
+          <FieldFieldRelationship FkField="OfferingId" PkField="Id" />
+        </FieldRelationships>
+      </NormalRelationship>
+    </Relationships>
+    <InheritanceHierarchies />
+  </EntityModel>
+  <TargetDatabases>
+    <TargetDatabase Type="2D18D138-1DD2-467E-86CC-4838250611AE" SyncSource="2">
+      <ConnectionElements>
+        <ConnectionElement Name="ServerName" Value="." />
+        <ConnectionElement Name="CatalogName" Value="master" />
+        <ConnectionElement Name="UseWindowsAuthentication" Value="true" />
+        <ConnectionElement Name="UserID" Value="" />
+        <ConnectionElement Name="Password" Value="" />
+      </ConnectionElements>
+      <SystemSequences>
+        <Sequence Name="SCOPE_IDENTITY()" />
+        <Sequence Name="@@IDENTITY" />
+      </SystemSequences>
+      <Catalogs>
+        <Catalog Name="KSI">
+          <Schemas>
+            <Schema Name="dbo" SyncSource="2" LastSyncWithDatabase="2016-11-29T00:41:54.666936Z">
+              <Tables>
+                <Table Name="Attendance">
+                  <PkConstraintName Name="PK_Attendance" />
+                  <Fields>
+                    <Field Name="DateOfAttendance" Ordinal="1" IsPrimaryKey="true" DbType="28" />
+                    <Field Name="StudentId" Ordinal="2" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="OfferingId" Ordinal="3" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="AttendanceCodeId" Ordinal="4" DbType="8" Precision="10" />
+                    <Field Name="SubmitDate" Ordinal="5" DbType="4" />
+                    <Field Name="SubmittedBy" Ordinal="6" DbType="8" Precision="10" />
+                    <Field Name="Notes" Ordinal="7" IsOptional="true" DbType="24" Length="2147483647" />
+                  </Fields>
+                </Table>
+                <Table Name="AttendanceCode">
+                  <PkConstraintName Name="PK_AttendanceCode" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="Name" Ordinal="2" DbType="24" Length="100" />
+                    <Field Name="Code" Ordinal="3" DbType="24" Length="50" />
+                    <Field Name="Type" Ordinal="4" DbType="24" Length="50" />
+                    <Field Name="Status" Ordinal="5" DbType="24" Length="50" />
+                  </Fields>
+                </Table>
+                <Table Name="ClassRegistration">
+                  <PkConstraintName Name="PK_ClassRegistration" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="OfferingId" Ordinal="2" DbType="8" Precision="10" />
+                    <Field Name="StudentId" Ordinal="3" DbType="8" Precision="10" />
+                    <Field Name="IsOnline" Ordinal="4" DbType="2" />
+                    <Field Name="RegistrationDate" Ordinal="5" DbType="4" />
+                    <Field Name="FinalGrade" Ordinal="6" IsOptional="true" DbType="24" Length="50" />
+                  </Fields>
+                </Table>
+                <Table Name="Course">
+                  <PkConstraintName Name="PK_Course" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="CourseNumber" Ordinal="2" DbType="24" Length="50" />
+                    <Field Name="Title" Ordinal="3" DbType="24" Length="500" />
+                    <Field Name="Description" Ordinal="4" DbType="24" Length="2147483647" />
+                    <Field Name="HasPrerequisite" Ordinal="5" DbType="2" />
+                    <Field Name="Syllabus" Ordinal="6" IsOptional="true" DbType="23" Length="2147483647" />
+                    <Field Name="Prerequisite1" Ordinal="7" IsOptional="true" DbType="24" Length="50" />
+                    <Field Name="Prerequisite2" Ordinal="8" IsOptional="true" DbType="24" Length="50" />
+                    <Field Name="Prerequisite3" Ordinal="9" IsOptional="true" DbType="24" Length="50" />
+                  </Fields>
+                </Table>
+                <Table Name="GradeBook">
+                  <PkConstraintName Name="PK_GradeBook" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="OfferingId" Ordinal="2" DbType="8" Precision="10" />
+                    <Field Name="StudentId" Ordinal="3" DbType="8" Precision="10" />
+                    <Field Name="GradeItemId" Ordinal="4" DbType="8" Precision="10" />
+                    <Field Name="Score" Ordinal="5" DbType="8" Precision="10" />
+                    <Field Name="SubmitDate" Ordinal="6" DbType="4" />
+                    <Field Name="SubmittedBy" Ordinal="7" DbType="8" Precision="10" />
+                  </Fields>
+                </Table>
+                <Table Name="GradeItem">
+                  <PkConstraintName Name="PK_GradeItem" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="Name" Ordinal="2" DbType="24" Length="50" />
+                    <Field Name="Type" Ordinal="3" DbType="24" Length="50" />
+                    <Field Name="FullScore" Ordinal="4" DbType="8" Precision="10" />
+                    <Field Name="Weight" Ordinal="5" DbType="8" Precision="10" />
+                  </Fields>
+                </Table>
+                <Table Name="Offering">
+                  <PkConstraintName Name="PK_Offering" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="SemesterId" Ordinal="2" DbType="8" Precision="10" />
+                    <Field Name="CourseId" Ordinal="3" DbType="8" Precision="10" />
+                    <Field Name="InstructorId" Ordinal="4" DbType="8" Precision="10" />
+                    <Field Name="Instructor2Id" Ordinal="5" IsOptional="true" DbType="8" Precision="10" />
+                    <Field Name="Capacity" Ordinal="6" DbType="8" Precision="10" />
+                    <Field Name="RoomNumber" Ordinal="7" DbType="24" Length="50" />
+                  </Fields>
+                </Table>
+                <Table Name="OfferingSchedule">
+                  <PkConstraintName Name="PK_OfferingSchedule" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="OfferingId" Ordinal="2" DbType="8" Precision="10" />
+                    <Field Name="Weekday" Ordinal="3" DbType="24" Length="50" />
+                    <Field Name="StartTime" Ordinal="4" DbType="31" />
+                    <Field Name="EndTime" Ordinal="5" DbType="31" />
+                  </Fields>
+                </Table>
+                <Table Name="Semester">
+                  <PkConstraintName Name="PK_Semester" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="Name" Ordinal="2" DbType="24" Length="100" />
+                    <Field Name="StartDate" Ordinal="3" DbType="28" />
+                    <Field Name="EndDate" Ordinal="4" DbType="28" />
+                  </Fields>
+                </Table>
+                <Table Name="Student">
+                  <PkConstraintName Name="PK_Student" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="StudentId" Ordinal="2" DbType="8" Precision="10" />
+                    <Field Name="FirstName" Ordinal="3" DbType="24" Length="100" />
+                    <Field Name="LastName" Ordinal="4" DbType="24" Length="100" />
+                    <Field Name="Email" Ordinal="5" DbType="24" Length="100" />
+                    <Field Name="Status" Ordinal="6" DbType="24" Length="100" />
+                    <Field Name="IsOnline" Ordinal="7" DbType="2" />
+                  </Fields>
+                </Table>
+                <Table Name="User">
+                  <PkConstraintName Name="PK_Instructor" />
+                  <Fields>
+                    <Field Name="Id" Ordinal="1" IsIdentity="true" IsPrimaryKey="true" DbType="8" Precision="10" />
+                    <Field Name="FirstName" Ordinal="2" DbType="24" Length="50" />
+                    <Field Name="LastName" Ordinal="3" DbType="24" Length="50" />
+                    <Field Name="FullName" Ordinal="4" DbType="24" Length="500" />
+                    <Field Name="Email" Ordinal="5" DbType="24" Length="500" />
+                    <Field Name="Username" Ordinal="6" DbType="24" Length="500" />
+                    <Field Name="Password" Ordinal="7" DbType="24" Length="500" />
+                    <Field Name="LastLoginDate" Ordinal="8" IsOptional="true" DbType="4" />
+                    <Field Name="RefId" Ordinal="9" DbType="24" Length="500" />
+                    <Field Name="IsAdmin" Ordinal="10" DbType="2" />
+                    <Field Name="IsInstructor" Ordinal="11" DbType="2" />
+                  </Fields>
+                </Table>
+              </Tables>
+            </Schema>
+          </Schemas>
+          <ForeignKeyConstraints>
+            <ForeignKeyConstraint Name="dbo:ClassRegistration:FK_ClassRegistration_Offering">
+              <FieldPairs>
+                <FieldPair PkField="dbo:Offering:Id" FkField="dbo:ClassRegistration:OfferingId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:ClassRegistration:FK_ClassRegistration_Student">
+              <FieldPairs>
+                <FieldPair PkField="dbo:Student:Id" FkField="dbo:ClassRegistration:StudentId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:GradeBook:FK_GradeBook_GradeItem">
+              <FieldPairs>
+                <FieldPair PkField="dbo:GradeItem:Id" FkField="dbo:GradeBook:GradeItemId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:GradeBook:FK_GradeBook_Offering">
+              <FieldPairs>
+                <FieldPair PkField="dbo:Offering:Id" FkField="dbo:GradeBook:OfferingId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:GradeBook:FK_GradeBook_Student">
+              <FieldPairs>
+                <FieldPair PkField="dbo:Student:Id" FkField="dbo:GradeBook:StudentId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:GradeBook:FK_GradeBook_User">
+              <FieldPairs>
+                <FieldPair PkField="dbo:User:Id" FkField="dbo:GradeBook:SubmittedBy" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:Offering:FK_Offering_Course">
+              <FieldPairs>
+                <FieldPair PkField="dbo:Course:Id" FkField="dbo:Offering:CourseId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:Offering:FK_Offering_Semester">
+              <FieldPairs>
+                <FieldPair PkField="dbo:Semester:Id" FkField="dbo:Offering:SemesterId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:Offering:FK_Offering_User">
+              <FieldPairs>
+                <FieldPair PkField="dbo:User:Id" FkField="dbo:Offering:InstructorId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:Offering:FK_Offering_User1">
+              <FieldPairs>
+                <FieldPair PkField="dbo:User:Id" FkField="dbo:Offering:Instructor2Id" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+            <ForeignKeyConstraint Name="dbo:OfferingSchedule:FK_OfferingSchedule_OfferingSchedule">
+              <FieldPairs>
+                <FieldPair PkField="dbo:Offering:Id" FkField="dbo:OfferingSchedule:OfferingId" />
+              </FieldPairs>
+            </ForeignKeyConstraint>
+          </ForeignKeyConstraints>
+        </Catalog>
+      </Catalogs>
+    </TargetDatabase>
+  </TargetDatabases>
+  <MappingStores>
+    <MappingStore Type="2D18D138-1DD2-467E-86CC-4838250611AE">
+      <EntityMappings>
+        <EntityMapping EntityName=":Attendance" TargetName="KSI:dbo:Attendance">
+          <FieldMappings>
+            <FieldMapping FieldName="AttendanceCodeId" TargetFieldName="AttendanceCodeId" />
+            <FieldMapping FieldName="DateOfAttendance" TargetFieldName="DateOfAttendance" />
+            <FieldMapping FieldName="Notes" TargetFieldName="Notes" />
+            <FieldMapping FieldName="OfferingId" TargetFieldName="OfferingId" />
+            <FieldMapping FieldName="StudentId" TargetFieldName="StudentId" />
+            <FieldMapping FieldName="SubmitDate" TargetFieldName="SubmitDate" />
+            <FieldMapping FieldName="SubmittedBy" TargetFieldName="SubmittedBy" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":AttendanceCode" TargetName="KSI:dbo:AttendanceCode">
+          <FieldMappings>
+            <FieldMapping FieldName="Code" TargetFieldName="Code" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="Name" TargetFieldName="Name" />
+            <FieldMapping FieldName="Status" TargetFieldName="Status" />
+            <FieldMapping FieldName="Type" TargetFieldName="Type" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":ClassRegistration" TargetName="KSI:dbo:ClassRegistration">
+          <FieldMappings>
+            <FieldMapping FieldName="FinalGrade" TargetFieldName="FinalGrade" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="IsOnline" TargetFieldName="IsOnline" />
+            <FieldMapping FieldName="OfferingId" TargetFieldName="OfferingId" />
+            <FieldMapping FieldName="RegistrationDate" TargetFieldName="RegistrationDate" />
+            <FieldMapping FieldName="StudentId" TargetFieldName="StudentId" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":Course" TargetName="KSI:dbo:Course">
+          <FieldMappings>
+            <FieldMapping FieldName="CourseNumber" TargetFieldName="CourseNumber" />
+            <FieldMapping FieldName="Description" TargetFieldName="Description" />
+            <FieldMapping FieldName="HasPrerequisite" TargetFieldName="HasPrerequisite" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="Prerequisite1" TargetFieldName="Prerequisite1" />
+            <FieldMapping FieldName="Prerequisite2" TargetFieldName="Prerequisite2" />
+            <FieldMapping FieldName="Prerequisite3" TargetFieldName="Prerequisite3" />
+            <FieldMapping FieldName="Syllabus" TargetFieldName="Syllabus" />
+            <FieldMapping FieldName="Title" TargetFieldName="Title" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":GradeBook" TargetName="KSI:dbo:GradeBook">
+          <FieldMappings>
+            <FieldMapping FieldName="GradeItemId" TargetFieldName="GradeItemId" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="OfferingId" TargetFieldName="OfferingId" />
+            <FieldMapping FieldName="Score" TargetFieldName="Score" />
+            <FieldMapping FieldName="StudentId" TargetFieldName="StudentId" />
+            <FieldMapping FieldName="SubmitDate" TargetFieldName="SubmitDate" />
+            <FieldMapping FieldName="SubmittedBy" TargetFieldName="SubmittedBy" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":GradeItem" TargetName="KSI:dbo:GradeItem">
+          <FieldMappings>
+            <FieldMapping FieldName="FullScore" TargetFieldName="FullScore" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="Name" TargetFieldName="Name" />
+            <FieldMapping FieldName="Type" TargetFieldName="Type" />
+            <FieldMapping FieldName="Weight" TargetFieldName="Weight" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":Offering" TargetName="KSI:dbo:Offering">
+          <FieldMappings>
+            <FieldMapping FieldName="Capacity" TargetFieldName="Capacity" />
+            <FieldMapping FieldName="CourseId" TargetFieldName="CourseId" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="Instructor2Id" TargetFieldName="Instructor2Id" />
+            <FieldMapping FieldName="InstructorId" TargetFieldName="InstructorId" />
+            <FieldMapping FieldName="RoomNumber" TargetFieldName="RoomNumber" />
+            <FieldMapping FieldName="SemesterId" TargetFieldName="SemesterId" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":OfferingSchedule" TargetName="KSI:dbo:OfferingSchedule">
+          <FieldMappings>
+            <FieldMapping FieldName="EndTime" TargetFieldName="EndTime" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="OfferingId" TargetFieldName="OfferingId" />
+            <FieldMapping FieldName="StartTime" TargetFieldName="StartTime" />
+            <FieldMapping FieldName="Weekday" TargetFieldName="Weekday" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":Semester" TargetName="KSI:dbo:Semester">
+          <FieldMappings>
+            <FieldMapping FieldName="EndDate" TargetFieldName="EndDate" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="Name" TargetFieldName="Name" />
+            <FieldMapping FieldName="StartDate" TargetFieldName="StartDate" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":Student" TargetName="KSI:dbo:Student">
+          <FieldMappings>
+            <FieldMapping FieldName="Email" TargetFieldName="Email" />
+            <FieldMapping FieldName="FirstName" TargetFieldName="FirstName" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="IsOnline" TargetFieldName="IsOnline" />
+            <FieldMapping FieldName="LastName" TargetFieldName="LastName" />
+            <FieldMapping FieldName="Status" TargetFieldName="Status" />
+            <FieldMapping FieldName="StudentId" TargetFieldName="StudentId" />
+          </FieldMappings>
+        </EntityMapping>
+        <EntityMapping EntityName=":User" TargetName="KSI:dbo:User">
+          <FieldMappings>
+            <FieldMapping FieldName="Email" TargetFieldName="Email" />
+            <FieldMapping FieldName="FirstName" TargetFieldName="FirstName" />
+            <FieldMapping FieldName="FullName" TargetFieldName="FullName" />
+            <FieldMapping FieldName="Id" TargetFieldName="Id" SequenceToUse="SCOPE_IDENTITY()" />
+            <FieldMapping FieldName="IsAdmin" TargetFieldName="IsAdmin" />
+            <FieldMapping FieldName="IsInstructor" TargetFieldName="IsInstructor" />
+            <FieldMapping FieldName="LastLoginDate" TargetFieldName="LastLoginDate" />
+            <FieldMapping FieldName="LastName" TargetFieldName="LastName" />
+            <FieldMapping FieldName="Password" TargetFieldName="Password" />
+            <FieldMapping FieldName="RefId" TargetFieldName="RefId" />
+            <FieldMapping FieldName="Username" TargetFieldName="Username" />
+          </FieldMappings>
+        </EntityMapping>
+      </EntityMappings>
+      <TypedViewMappings />
+      <SPCallMappings />
+      <TvfCallMappings />
+      <TypeConversionDefinitions />
+    </MappingStore>
+  </MappingStores>
+  <ModelViews />
+</Project>
